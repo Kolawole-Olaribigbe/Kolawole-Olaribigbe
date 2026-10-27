@@ -1,4 +1,4 @@
-![Kolawole | Technology, Style & Creativity](assets/github-banner.png)
+![Kolawole | Technology, Style & Creativity](github-banner.png)
 
 # Hello, I'm Kolawole 👋🏽
 
