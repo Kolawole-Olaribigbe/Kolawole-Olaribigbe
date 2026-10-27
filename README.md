@@ -29,11 +29,27 @@ I'm growing my skills in cloud computing and DevOps, while keeping plenty of roo
 
 ## 🚀 Featured Projects
 
-- **Multi-API Docker Deployment** — A containerized Todo application deployment using Docker Compose and Nginx, bringing multiple APIs together behind a single entry point.
-- **Zero-Touch CI/CD Deployment** — Working on an automated GitLab pipeline to validate configuration, publish versioned Docker images, deploy to EC2, and run smoke tests.
-- **Server Performance Stats** — A beginner-friendly Bash script that reports Linux server performance, including CPU, memory, disk usage, uptime, and top processes.
+### ☁️ [Multi-API Docker Deployment on AWS EC2](https://github.com/Kolawole-Olaribigbe/devops-portfolio/tree/main/assignment-5-consolidated-ec2)
 
-*Explore my repositories for project code, documentation, and updates.*
+Designed and deployed a multi-container application environment on AWS EC2 using Docker Compose and Nginx. Integrated Python, PHP, and Rust Todo APIs with their respective databases behind a single entry point, with persistent storage, health checks, and service-to-service networking.
+
+**Technologies:** AWS EC2 · Docker · Docker Compose · Nginx · Linux · PostgreSQL · MySQL · SQLite
+
+### ⚙️ [Zero-Touch CI/CD Deployment](https://github.com/Kolawole-Olaribigbe/devops-portfolio)
+
+Building an automated deployment workflow with GitLab CI/CD that validates configuration, builds and publishes versioned Docker images, deploys published images to AWS EC2, and runs post-deployment smoke tests. The goal is to keep the EC2 host pull-only and eliminate manual deployment steps.
+
+**Technologies:** GitLab CI/CD · Docker · Container Registry · AWS EC2 · Linux · Automation
+
+### 🖥️ [Linux Server Performance Monitor](https://github.com/Kolawole-Olaribigbe/devops-portfolio/tree/main/server-performance-monitor)
+
+Developed a Bash script to collect and display essential Linux server performance metrics, including CPU and memory usage, disk utilization, uptime, load averages, and top resource-consuming processes.
+
+**Technologies:** Linux · Bash · Shell Scripting · System Monitoring
+
+---
+
+*I'm continuously building, documenting, and improving hands-on cloud and DevOps projects. Explore my repositories to follow my progress.*
 
 ## 🎨 Beyond the Terminal
 
