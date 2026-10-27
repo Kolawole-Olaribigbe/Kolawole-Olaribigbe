@@ -1,3 +1,5 @@
+![Kolawole | Technology, Style & Creativity](assets/github-banner.png)
+
 # Hello, I'm Kolawole 👋🏽
 
 ### Cloud Infrastructure & DevOps Engineer | Creative | Certified Nerd
