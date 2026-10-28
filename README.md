@@ -1,4 +1,4 @@
-![Kolawole | Technology, Style & Creativity](github-banner.png)
+
 
 # Hello, I'm Kolawole 👋🏽
 
@@ -48,8 +48,5 @@ When I'm not working on tech, I might be:
 
 I like the mix of logic and creativity — building reliable systems while creating stories and worlds of my own.
 
-## 🤝 Let's Connect
-
-I'm always happy to connect with people interested in cloud technology, DevOps, creative projects, comics, sports, and learning new things.
 
 **Build cool things. Tell good stories. Keep growing.** 🚀
