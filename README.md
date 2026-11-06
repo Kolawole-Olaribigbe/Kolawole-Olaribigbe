@@ -2,7 +2,7 @@
 
 # Hello, I'm Kolawole 👋🏽
 
-### Cloud Infrastructure & DevOps Engineer | Creative | Certified Nerd
+### A Cloud Infrastructure & DevOps Engineer | Creative | Certified Nerd
 
 I'm someone who enjoys figuring out how things work, solving problems, and building things — whether that's cloud infrastructure, automation, or fictional worlds in my own comics.
 
